@@ -12,7 +12,7 @@ import database as db
 logging.basicConfig(format="%(asctime)s %(levelname)s %(message)s", level=logging.INFO)
 log = logging.getLogger(__name__)
 
-BOT_TOKEN = os.getenv("BOT_TOKEN", "8702277983:AAH5uO3PgpYN-G13aV9S461nqgu5s4M-UlM")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8676197787:AAG6_O-O6qNTIRmcoDI0EtBrSIsI940UA4Q")
 ADMIN_ID  = int(os.getenv("ADMIN_ID", "6198353113"))
 
 # ── category maps ──────────────────────────────────────────
